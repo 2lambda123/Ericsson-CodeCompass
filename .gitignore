@@ -6,3 +6,9 @@ nbproject/
 *.swp
 build/
 build_*/
+
+# C#
+plugins/**/bin
+plugins/**/obj
+*.out
+*.bak
